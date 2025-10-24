@@ -46,6 +46,14 @@ AI-Travel-Guide/
 └── .env.example # Example environment variables
 
 
+---
+
+## 🚀 Deployed Link
+
+You can access the live project here:
+**https://ai-travel-guide-personalized-tour-planner.onrender.com/**
+
+---
 
 ---
 
