@@ -137,12 +137,9 @@ Issue	Cause	Fix
 
 📜 License
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
 🪪 Licensed under the MIT License — feel free to use and modify!
 See the LICENSE file for details.
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 💖 Acknowledgements
 
@@ -152,13 +149,9 @@ OpenWeatherMap API
 
 Flask
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
 🌍 Plan smarter. Travel lighter. Dream bigger. ✨
 
 AI Travel Guide — your smart companion for every adventure.
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 Would you like me to generate the matching **LICENSE (MIT)** file content too, so your GitHub repo looks co
 ## 📁 Project Structure
