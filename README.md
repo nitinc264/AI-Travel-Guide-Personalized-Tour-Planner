@@ -4,7 +4,7 @@
 > ✨ A lightweight AI-powered travel itinerary generator with real-time weather updates.  
 > Powered by *Google Gemini API* 🧠 and *OpenWeatherMap* ☁ — built with *Flask, **HTML/CSS/JS*, and a clean two-page UI.
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🌟 Features
 
@@ -15,7 +15,7 @@
   - suggestions.html: Get travel ideas & recommendations  
 - 🔗 *CORS-Enabled Backend* — Smooth frontend-backend communication for easy local or hosted development.  
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🧰 Tech Stack
 
@@ -26,7 +26,7 @@
 | *Weather API* | OpenWeatherMap (metric units) |
 | *LLM API* | Google Gemini (models.generateContent) |
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 
 AI-Travel-Guide/
@@ -45,17 +45,14 @@ AI-Travel-Guide/
 │
 └── .env.example # Example environment variables
 
-
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🚀 Deployed Link
 
 You can access the live project here:
 **https://ai-travel-guide-personalized-tour-planner.onrender.com/**
 
----
-
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## ⚙ Prerequisites
 
@@ -65,7 +62,7 @@ You can access the live project here:
   - *Google Gemini* → GOOGLE_API_KEY
   - *OpenWeatherMap* → OPENWEATHER_API_KEY
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🚀 Setup Instructions
 
@@ -140,8 +137,12 @@ Issue	Cause	Fix
 
 📜 License
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 🪪 Licensed under the MIT License — feel free to use and modify!
 See the LICENSE file for details.
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 💖 Acknowledgements
 
@@ -151,12 +152,13 @@ OpenWeatherMap API
 
 Flask
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 🌍 Plan smarter. Travel lighter. Dream bigger. ✨
 
 AI Travel Guide — your smart companion for every adventure.
 
-
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 Would you like me to generate the matching **LICENSE (MIT)** file content too, so your GitHub repo looks co
 ## 📁 Project Structure
